@@ -10,7 +10,7 @@
 * **output** `filesystem  victry`
 * **command:** `cd` -> Change Directory 
 * **expectation** -> Steps inside a folder
-* ** output** -> `:~/victry$`
+* **output** -> `:~/victry$`
 * **command:** `clear`
 * **expectation** -> Clean the clutter off the screen
 * **output** -> `root@ubuntu:~$`
