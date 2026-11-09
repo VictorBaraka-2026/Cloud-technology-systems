@@ -1,6 +1,6 @@
 ##  Day 1: November 6, 2026 | Navigation Basics
 
-# concepts learned
+### concepts learned
 I've learnt how to navigate through browser playgrounds through specific commands listed below
 
 * **command:** `pwd` -> Print Working Directory
@@ -19,9 +19,9 @@ I've learnt how to navigate through browser playgrounds through specific command
 * **expectation** -> Clean the clutter off the screen
 * **output** -> `root@ubuntu:~$`
 
-##Tools used
+### Tools used
 killer coda 
-##evidence
+### evidence
 
 ##  Day 2: November 9, 2026 | NETWORKING: understanding a switch 
 
