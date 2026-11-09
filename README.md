@@ -15,7 +15,7 @@
 * **expectation** -> Clean the clutter off the screen
 * **output** -> `root@ubuntu:~$`
 
-## 📅 Day 1: November 6, 2026 | Navigation Basics
+## 📅 Day 2: November 9, 2026 | NETWORKING: understanding a switch 
 
 ### 🧠 Core Concepts Learned
 * **Network Switch Fundamentals:** Learned how a Layer 2 switch operates at the Data Link layer, utilizing MAC addresses to intelligently forward frames only to the intended destination, preventing network collisions.
