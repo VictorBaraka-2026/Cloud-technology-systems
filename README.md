@@ -1,4 +1,4 @@
-## 📅 Day 1: November 6, 2026 | Navigation Basics
+##  Day 1: November 6, 2026 | Navigation Basics
 * **command:** `pwd` -> Print Working Directory
 * **expectation:** To show me the working folder
 * **command output:** `/root`
@@ -15,13 +15,13 @@
 * **expectation** -> Clean the clutter off the screen
 * **output** -> `root@ubuntu:~$`
 
-## 📅 Day 2: November 9, 2026 | NETWORKING: understanding a switch 
+##  Day 2: November 9, 2026 | NETWORKING: understanding a switch 
 
-### 🧠 Core Concepts Learned
+### Concepts Learned
 * **Network Switch Fundamentals:** Learned how a Layer 2 switch operates at the Data Link layer, utilizing MAC addresses to  forward frames only to the intended destination, preventing network collisions.
 * **CLI Navigation:** Mastered navigating between User EXEC mode (`Switch>`), Privileged EXEC mode (`Switch#`), and Global Configuration mode (`Switch(config)#`).
 
-### 💻 Lab Verification & CLI Diagnostics
+### Lab Verification & CLI Diagnostics
 
 | Date | Command | Expectation (What it does) | Output / Results |
 | :--- | :--- | :--- | :--- |
@@ -30,11 +30,10 @@
 | Nov 9, 2026 | `show ip interface brief` | Provides a quick status summary of all physical interfaces (ports) and their protocol states. | `Interface       Status  Protocol`<br>`FastEthernet0/1  up      up`<br>`FastEthernet0/2  down    down`<br>`Gigabit0/1      down    down` |
 | Nov 9, 2026 | `show running-config` | Dumps the active, volatile configuration currently running in the switch's RAM. | `Current configuration : 1054 bytes`<br>`!` <br>`hostname Switch`<br>`!`<br>`interface FastEthernet0/1`<br>`!` |
 
-### 📸 Lab Network Topology
-*(Upload a screenshot of your Packet Tracer topology to your repo and name it topology.png)*
-![Network Topology](topology.png)
+### Lab evidence 
 
-### 🛠️ Tools Used
+
+### Tools Used
 * Cisco Packet Tracer (Network Simulation)
 * Cisco IOS (Command Line Interface)
 
