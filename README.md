@@ -39,6 +39,7 @@ killer coda
 | Nov 9, 2026 | `show running-config` | Dumps the active, volatile configuration currently running in the switch's RAM. | `Current configuration : 1054 bytes`<br>`!` <br>`hostname Switch`<br>`!`<br>`interface FastEthernet0/1`<br>`!` |
 
 ### Lab evidence 
+<img width="960" height="540" alt="Screenshot 2026-11-19 122638" src="https://github.com/user-attachments/assets/a08f722b-ad32-4fab-b148-850d46196f3f" />
 
 
 ### Tools Used
