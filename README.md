@@ -20,8 +20,12 @@ I've learnt how to navigate through browser playgrounds through specific command
 * **output** -> `root@ubuntu:~$`
 
 ### Tools used
-killer coda 
+killer coda
+
+
 ### evidence
+
+ <img width="960" height="540" alt="Screenshot 2026-11-19 124757" src="https://github.com/user-attachments/assets/d9292afc-7cca-47ed-9c34-b74a1457f9ff" />
 
 ##  Day 2: November 9, 2026 | NETWORKING: understanding a switch 
 
